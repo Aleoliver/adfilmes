@@ -18,3 +18,14 @@
 <info></info>
 </channel>
 </channels>
+
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Series[/B][/COLOR][COLOR green][B] ||| AD [/B][/COLOR][COLOR yellow][B]Filmes |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Aleoliver/adfilmes/main/Series</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
