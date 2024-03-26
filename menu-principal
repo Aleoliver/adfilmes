@@ -1,7 +1,5 @@
 <channels>
  <channel>
- <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR green][B] ||| AD [/B][/COLOR][COLOR yellow][B]Filmes |||[/B][/COLOR]</name>
- <thumbnail>https://supertvaovivo.com/wp-content/uploads/2021/07/tela-de-tv.png</thumbnail>
  <name>[COLOR white][B]PlutoTV - Brazil[/B][/COLOR][COLOR green][B] ||| AD [/B][/COLOR][COLOR yellow][B]Filmes |||[/B][/COLOR]</name>
  <externallink>https://raw.githubusercontent.com/Aleoliver/adfilmes/main/lista-ch.xml</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
