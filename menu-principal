@@ -11,7 +11,7 @@
 <channel>
 <name>[COLOR white][B]Filmes[/B][/COLOR][COLOR green][B] ||| AD [/B][/COLOR][COLOR yellow][B]Filmes |||[/B][/COLOR]</name>
 <channel>
-<label>[COLOR white][B]Filmes 2024[/B][/COLOR][COLOR red][B] ||| AD [/B][/COLOR][COLOR yellow][B]Filmes |||[/B][/COLOR]<label>
+<name>[COLOR white][B]Filmes 2024[/B][/COLOR][COLOR red][B] ||| AD [/B][/COLOR][COLOR yellow][B]Filmes |||[/B][/COLOR]<name>
 <channel>
 <externallink>https://raw.githubusercontent.com/Aleoliver/adfilmes/main/filmes</externallink>
 <fanart></fanart>
