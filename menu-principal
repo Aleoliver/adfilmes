@@ -17,6 +17,15 @@
 <fanart></fanart>
 <info></info>
 </channel>
+
+<channel>
+<name>[COLOR white][B]Filmes 2024[/B][/COLOR][COLOR red][B] ||| AD [/B][/COLOR][COLOR yellow][B]Filmes |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Aleoliver/adfilmes/main/filmes</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+
 </channels>
 
 
