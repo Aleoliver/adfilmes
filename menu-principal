@@ -1,13 +1,15 @@
 <channels>
  <channel>
  <name>[COLOR white][B]TV Aberta[/B][/COLOR][COLOR green][B] ||| AD [/B][/COLOR][COLOR yellow][B]Filmes |||[/B][/COLOR]</name>
+<channel>
  <subitem>
     <label>PlutoTV Brazil</label>
     <icon>icon.png</icon>
     </subitem>
  <externallink>https://raw.githubusercontent.com/Aleoliver/adfilmes/main/lista-ch.xml</externallink>
  <info>Listas iptv</info>
- </channel>
+<channel> 
+</channel>
  </channels>
  
 
